@@ -29,7 +29,7 @@
 |--------------|-------------|------------|-------------------------------|------------------|
 | [![Next][Next.js]][Next-url] | [![Python][Python-shield]][Python-url] | [![Docker][Docker-shield]][Docker-url] | [![Azure][Azure-shield]][Azure-url] | [![Python][Python-shield]][Python-url] |
 | [![React][React.js]][React-url] | [![Node.js][Node.js-shield]][Node-url] | [![CircleCI][CircleCI-shield]][CircleCI-url] | [![Terraform][Terraform-shield]][React-url] | [![TensorFlow][TensorFlow-shield]][TensorFlow-url] |
-| [![Typescript][Typescript-shield]][Typescript-url] | [![NestJS][NestJS-shield]][NestJS-url] | | | [![Scikit Learn][ScikitLearn-shield]][ScikitLearn-url] |
+| [![Typescript][Typescript-shield]][Typescript-url] | [![NestJS][NestJS-shield]][NestJS-url] | | [![Ansible][Ansible-shield]][Ansible-url] | [![Scikit Learn][ScikitLearn-shield]][ScikitLearn-url] |
 | [![ShadCN][ShadCN-shield]][ShadCN-url] | | | | [![Pandas][Pandas-shield]][Pandas-url] |
 
 <!-- 
@@ -48,6 +48,7 @@
 #### Infrastructure and Cloud
 [![Azure][Azure-shield]][Azure-url]
 [![Terraform][Terraform-shield]][React-url]
+[![Ansible][Ansible-shield]][Ansible-url]
 #### Data Science
 [![Python][Python-shield]][Python-url]
 [![TensorFlow][TensorFlow-shield]][TensorFlow-url]
@@ -118,3 +119,5 @@ LinkedIn: [Samuel Smeys](https://www.linkedin.com/in/samuelsmeys/)
 [ScikitLearn-url]: https://scikit-learn.org/
 [Pandas-shield]: https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white
 [Pandas-url]: https://pandas.pydata.org/
+[Ansible-shield]: https://img.shields.io/badge/ansible-000000?style=for-the-badge&logo=ansible&logoColor=white
+[Ansible-url]: https://www.ansible.com/
