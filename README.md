@@ -27,29 +27,29 @@
 ### I have experience with these technologies (but not limited to):
 
 #### Frontend
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Typescript][Typescript-shield]][Typescript-url]
-* [![ShadCN][ShadCN-shield]][ShadCN-url]
+[![Next][Next.js]][Next-url]
+[![React][React.js]][React-url]
+[![Typescript][Typescript-shield]][Typescript-url]
+[![ShadCN][ShadCN-shield]][ShadCN-url]
 
 #### Backend
-* [![Python][Python-shield]][Python-url]
-* [![Node.js][Node.js-shield]][Node-url]
-* [![NestJS][NestJS-shield]][NestJS-url]
+[![Python][Python-shield]][Python-url]
+[![Node.js][Node.js-shield]][Node-url]
+[![NestJS][NestJS-shield]][NestJS-url]
 
 #### DevOps
-* [![Docker][Docker-shield]][Docker-url]
-* [![CircleCI][CircleCI-shield]][CircleCI-url]
+[![Docker][Docker-shield]][Docker-url]
+[![CircleCI][CircleCI-shield]][CircleCI-url]
 
 #### Infrastructure and Cloud
-* [![Azure][Azure-shield]][Azure-url]
-* [![Terraform][Terraform-shield]][React-url]
+[![Azure][Azure-shield]][Azure-url]
+[![Terraform][Terraform-shield]][React-url]
 
 #### Data Science
-* [![Python][Python-shield]][Python-url]
-* [![TensorFlow][TensorFlow-shield]][TensorFlow-url]
-* [![Scikit Learn][ScikitLearn-shield]][ScikitLearn-url]
-* [![Pandas][Pandas-shield]][Pandas-url]
+[![Python][Python-shield]][Python-url]
+[![TensorFlow][TensorFlow-shield]][TensorFlow-url]
+[![Scikit Learn][ScikitLearn-shield]][ScikitLearn-url]
+[![Pandas][Pandas-shield]][Pandas-url]
 
 <!-- CONTACT -->
 ## Contact
