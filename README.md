@@ -20,7 +20,6 @@
 -->
 
 <!-- ABOUT THE PROJECT -->
-# Samuel Smeys
 ## Co-founder and CTO at [Spott](https://gospott.com)
 ### I'm a full stack developer focused on DevOps, Infra and Backend work. I am also a statistician and data scientist.
 ### I have experience with these technologies (but not limited to):
