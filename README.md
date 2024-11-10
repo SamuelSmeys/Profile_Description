@@ -47,6 +47,9 @@
 
 #### Data Science
 * [![Python][Python-shield]][Python-url]
+* [![TensorFlow][TensorFlow-shield]][TensorFlow-url]
+* [![Scikit Learn][ScikitLearn-shield]][ScikitLearn-url]
+* [![Pandas][Pandas-shield]][Pandas-url]
 
 <!-- CONTACT -->
 ## Contact
@@ -107,4 +110,9 @@ Samuel Smeys - Co-Founder - samuel@gospott.com
 [Node-url]: https://nodejs.org/en/
 [NestJS-shield]: https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white
 [NestJS-url]: https://nestjs.com/
-
+[TensorFlow-shield]: https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+[TensorFlow-url]: https://www.tensorflow.org/
+[ScikitLearn-shield]: https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
+[ScikitLearn-url]: https://scikit-learn.org/
+[Pandas-shield]: https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white
+[Pandas-url]: https://pandas.pydata.org/
