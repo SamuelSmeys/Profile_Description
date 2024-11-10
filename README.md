@@ -23,28 +23,22 @@
 # Samuel Smeys
 ## Co-founder and CTO at [Spott](https://gospott.com)
 ### I'm a full stack developer focused on DevOps, Infra and Backend work. I am also a statistician and data scientist.
-
 ### I have experience with these technologies (but not limited to):
-
 #### Frontend
 [![Next][Next.js]][Next-url]
 [![React][React.js]][React-url]
 [![Typescript][Typescript-shield]][Typescript-url]
 [![ShadCN][ShadCN-shield]][ShadCN-url]
-
 #### Backend
 [![Python][Python-shield]][Python-url]
 [![Node.js][Node.js-shield]][Node-url]
 [![NestJS][NestJS-shield]][NestJS-url]
-
 #### DevOps
 [![Docker][Docker-shield]][Docker-url]
 [![CircleCI][CircleCI-shield]][CircleCI-url]
-
 #### Infrastructure and Cloud
 [![Azure][Azure-shield]][Azure-url]
 [![Terraform][Terraform-shield]][React-url]
-
 #### Data Science
 [![Python][Python-shield]][Python-url]
 [![TensorFlow][TensorFlow-shield]][TensorFlow-url]
@@ -53,7 +47,6 @@
 
 <!-- CONTACT -->
 ## Contact
-
 Samuel Smeys - Co-Founder - samuel@gospott.com
 LinkedIn: [Samuel Smeys](https://www.linkedin.com/in/samuelsmeys/)
 
