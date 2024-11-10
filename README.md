@@ -55,8 +55,7 @@
 ## Contact
 
 Samuel Smeys - Co-Founder - samuel@gospott.com
-
-
+LinkedIn: [Samuel Smeys](https://www.linkedin.com/in/samuelsmeys/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
